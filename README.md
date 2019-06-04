@@ -26,7 +26,7 @@ $ python PROXY_CHK.py
   - Path list [proxy:port] [192.168.1.1:1234]
   - requests module
   
-  # FAQ
+# FAQ
 [❓]: Which python version do i need?     
 [A]:  Python 2.7  
 
