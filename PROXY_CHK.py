@@ -50,7 +50,7 @@ def main():
     threadlist = []
 
     try:
-        os.remove('workingproxies.txt')
+        os.remove('VALID PROXIES.txt')
     except Exception:
         pass
 
